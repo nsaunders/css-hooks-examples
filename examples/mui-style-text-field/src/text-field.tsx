@@ -77,7 +77,6 @@ export function TextFieldBase({ label, render }: TextFieldBaseProps) {
       >
         <span
           style={css({
-            pointerEvents: "none",
             transitionProperty: "font-size, color",
             transitionDuration: "150ms",
             transitionTimingFunction: "linear",
