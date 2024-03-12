@@ -1,0 +1,8 @@
+@import "@fontsource-variable/roboto-flex";
+
+body {
+  font-family: "Roboto Flex Variable", Helvetica, Arial, sans-serif;
+  background: #11100f;
+  color: #f9f8f7;
+  margin: 0;
+}
